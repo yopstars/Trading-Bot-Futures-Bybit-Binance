@@ -5,7 +5,6 @@ Trading bot made in Python for Bybit Futures, support 12 differents coins (BTC, 
 <br><br>
 <h1> How to use:<br></h1>
 1. Get Python 3.x if you don't have it.<br>
-2. Run a cmd prompt to the directory of the file, type "pip install -r requirements.txt" and enter.<br>
-3. Go to settings and put your secret key; tutorial here: https://www.youtube.com/watch?v=_Oh-3KC-QA4<br>
-4. Edit size of transactions & tokens settings.<br>
-5. Run "Trading_bot.py" and there you go !<br>
+2. Go to settings and put your secret key; tutorial here: https://www.youtube.com/watch?v=_Oh-3KC-QA4<br>
+3. Edit size of transactions & tokens settings.<br>
+4. Run "bot.py" and there you go !<br>
