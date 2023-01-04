@@ -1,3 +1,4 @@
+import ccxt
 import time
 import json
 import base64 as bs
